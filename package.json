@@ -45,5 +45,6 @@
   "homepage": "https://github.com/mattdesl/word-wrapper",
   "bugs": {
     "url": "https://github.com/mattdesl/word-wrapper/issues"
-  }
+  },
+  "public": true
 }
