@@ -1,6 +1,6 @@
 {
   "name": "@noblesam/word-wrapper",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "wraps words based on arbitrary 2D glyphs",
   "main": "index.js",
   "license": "MIT",
