@@ -1,5 +1,5 @@
 {
-  "name": "word-wrapper",
+  "name": "@noblesam/word-wrapper",
   "version": "1.0.7",
   "description": "wraps words based on arbitrary 2D glyphs",
   "main": "index.js",
